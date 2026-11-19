@@ -12,7 +12,10 @@
    "category": "platinum",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase", "Our roadmap, built from the official descriptions"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "Our roadmap, built from the official descriptions"
+   ],
    "guide": "The platinum pops the moment the other 54 trophies are earned — there is no extra task of its own. Work the roadmap in order: story first, then stranger strands, activities, collectibles, and the crime-spree cleanup last, because 100% completion (A Long Road) is the final gate before this one. Keep a manual save before each flagged missable beat so one missed moment never costs a whole playthrough."
   },
   {
@@ -23,7 +26,9 @@
    "category": "story",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Gone Fishing is the opening mission, so this pops naturally in the first hour — just follow the on-screen prompts and finish the mission. There is no detour and nothing to miss; if you ever replay it, mission replay from the pause menu should re-trigger the trophy. Source: the official list via Exophase."
   },
   {
@@ -34,7 +39,9 @@
    "category": "story",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Chapter 1 by playing every story mission in order until the chapter-end screen. Chapters are linear, so nothing here can be skipped past — this trophy is a progress marker, not a skill check. Source: the official list via Exophase."
   },
   {
@@ -45,7 +52,9 @@
    "category": "story",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Chapter 2 the same way as Chapter 1: play its story missions in order until the chapter closes. Keep a save at the start of the chapter if you like a safety net, but the trophy itself only asks for completion. Source: the official list via Exophase."
   },
   {
@@ -56,7 +65,9 @@
    "category": "story",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Chapter 3 by completing its story missions in order. By now the pattern is set: chapter trophies reward steady story progress, so push the main missions before long side detours if you want this early. Source: the official list via Exophase."
   },
   {
@@ -67,7 +78,9 @@
    "category": "story",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Chapter 4, the last full chapter before the finale. Clear any stranger strands and activities you care about before moving on, because the final mission is flagged as a point of no return in our roadmap. Source: the official list via Exophase."
   },
   {
@@ -79,7 +92,10 @@
    "missable": true,
    "missable_reason": "Point of no return — finish open-world cleanup before the finale.",
    "phase": 5,
-   "sources": ["Official trophy list via Exophase", "Our roadmap, built from the official descriptions"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "Our roadmap, built from the official descriptions"
+   ],
    "guide": "The final mission ends the story, so treat it as a point of no return: finish the collectibles, stranger strands and activities you care about first, and keep a manual save from just before the finale. The mission itself is linear — follow the objectives to the end credits. Source: the official list via Exophase; the save-before-the-finale advice is ours, from the description 'Complete the final mission'."
   },
   {
@@ -90,7 +106,9 @@
    "category": "mission",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "A named story mission. Play Breakfast Run when it appears in the story flow and the trophy pops on completion. GTA titles traditionally let you replay missions from the menu, so a missed first attempt should be recoverable — that replay point is our reading of the description, not yet verified in-game. Source: the official list via Exophase."
   },
   {
@@ -101,7 +119,9 @@
    "category": "mission",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete the Cartel Heist mission when the story brings it to you. Heist missions are usually multi-stage, so follow each objective in order and do not rush the setup steps — the trophy only needs the mission finished. Source: the official list via Exophase."
   },
   {
@@ -112,7 +132,9 @@
    "category": "mission",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete the Child's Play mission in the story flow. Like the other named-mission trophies, this one is a completion marker: finish the mission and it pops, with no extra objective hidden in the description. Source: the official list via Exophase."
   },
   {
@@ -123,7 +145,9 @@
    "category": "mission",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete the Headliners mission when it unlocks in the story. Play it in order with the surrounding missions; there is no side requirement in the official description, so a straight completion is enough. Source: the official list via Exophase."
   },
   {
@@ -134,7 +158,9 @@
    "category": "mission",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete the VCIA Takedown mission — the airport takedown in the story flow. Expect a combat-heavy mission around the airport; stock up on ammo and armour before starting, then finish it to pop the trophy. Source: the official list via Exophase."
   },
   {
@@ -145,7 +171,9 @@
    "category": "mission",
    "missable": false,
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete Operation Savage Glory, the last named mission trophy in the story set. It sits late in the mission list, so you will likely earn it near the end of the story run — just play the mission through when it appears. Source: the official list via Exophase."
   },
   {
@@ -156,10 +184,12 @@
    "category": "completion",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — the 100% checklist"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — the 100% checklist"
+   ],
    "guide": "The 100% completion trophy is the long grind: story, stranger strands, activities, collectibles and exploration all feed the in-game completion counter, so open the stats screen regularly to see what is still missing. Expect this to be one of the last two trophies you earn, just before the platinum. PSNProfiles lists the completion checklist behind the counter; the exact percentage weights are not published, so work from the in-game counter itself."
-  }
-,
+  },
   {
    "id": 15,
    "name": "Cunning Stunts",
@@ -168,7 +198,10 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — target count 250 stunts"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — target count 250 stunts"
+   ],
    "guide": "PSNProfiles lists the target as 250 stunts. Stunts count when you land jumps, near-misses and airtime cleanly, so chain them during normal driving instead of grinding one spot: every long jump off a ramp or bridge counts. Take a fast car on the highway runs and bank the landings. The chaining method is our advice from the description, not yet verified in-game."
   },
   {
@@ -179,7 +212,10 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 9 activity types"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 9 activity types"
+   ],
    "guide": "Try each of the 9 activity types once — PSNProfiles lists 9, spanning fishing, the shooting range, drone racing, arcade games, bowling, meditation, racing and hunting. One attempt each is enough; you do not need to win any of them. The exact ninth type is not confirmed from the official description alone, so check the activities menu in-game and tick them off there."
   },
   {
@@ -190,7 +226,10 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 42 Shooting Range challenges"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 42 Shooting Range challenges"
+   ],
    "guide": "Gold-medal every Shooting Range challenge — PSNProfiles lists 42 of them. Learn one weapon class at a time, restart a challenge the moment a run goes bad, and save the hardest long-range ones for last, when your aim is warm. This is a skill grind, not a luck one: short sessions across several days beat one long frustrated sitting. The method is our advice, not yet verified in-game."
   },
   {
@@ -201,7 +240,10 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 14 drone race locations"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 14 drone race locations"
+   ],
    "guide": "Win a Top Fun drone race at all 14 locations — PSNProfiles lists the count. Learn each course's racing line on a slow first lap, then push; drone racing rewards smooth corners, not top speed. Tick locations off one by one on the map so none is left for the end. Course layouts are not yet verified in-game."
   },
   {
@@ -212,7 +254,10 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 20 different races"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 20 different races"
+   ],
    "guide": "Win 20 different races — different events, not the same one 20 times. Work through the race menu systematically and note which you have won; street races in a tuned car are the easiest early wins. PSNProfiles lists the target as 20 distinct race wins."
   },
   {
@@ -223,7 +268,9 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Challenge Cal to a fishing contest and out-fish him. Fish the deeper spots and reel steadily — the contest is won on total catch, so consistent reeling beats risky casts. If you lose, challenge him again: the trophy only needs one win. The contest format is our reading of the description, not yet verified in-game."
   },
   {
@@ -234,7 +281,9 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish one full arcade game — pick the shortest cabinet first and play it through to its end screen. Any arcade game counts, so choose the one you find easiest and ignore the rest until this pops. Source: the official list via Exophase."
   },
   {
@@ -245,7 +294,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Andy's mission strand through to its last mission. Stranger strands unlock as you explore — meet Andy, then follow his missions whenever his icon appears, and do not leave his final mission for after the finale in case his strand closes. The strand-closing warning is our reading of the description, not yet verified in-game."
   },
   {
@@ -256,7 +307,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Kenton's mission strand to its last mission — the boat-flavoured strand, judging by the name. Take his missions as they appear while exploring the coast and marinas, and complete the strand before the finale. Source: the official list via Exophase."
   },
   {
@@ -267,7 +320,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Billy's mission strand through to its final mission. Billy's strand is a lone-rider storyline, so expect solo rides and bike work; follow his icon whenever it shows and finish the strand before the finale. Source: the official list via Exophase."
   },
   {
@@ -278,7 +333,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete 8 stranger mission strands across Leonida. Explore the map icons, take every stranger mission you find, and finish strands fully — a half-finished strand does not count. The five named contacts (Andy, Kenton, Billy, Randy, Tyrone) plus Bret's hunt and other strangers give you more than 8 to choose from, so pick the strands you enjoy. The roster is our reading of the full trophy list."
   },
   {
@@ -289,7 +346,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Randy's mission strand to its last mission. Take his jobs as they appear and work the strand to completion before the finale, like the other named contacts. Source: the official list via Exophase."
   },
   {
@@ -300,7 +359,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish Tyrone's mission strand through to its final mission. Follow his icon whenever it appears and complete the strand before the finale, the same routine as the other named contacts. Source: the official list via Exophase."
   },
   {
@@ -311,10 +372,12 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 18 meditation spots"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 18 meditation spots"
+   ],
    "guide": "Meditate at all 18 spots across Leonida — PSNProfiles lists the count. Meditation spots sit at scenic viewpoints; the game marks visited spots, so sweep region by region (beaches first, then the hills) instead of criss-crossing the map. Exact spot locations are not yet verified — work from the in-game map markers."
-  }
-,
+  },
   {
    "id": 29,
    "name": "Fair Game",
@@ -323,7 +386,9 @@
    "category": "stranger",
    "missable": false,
    "phase": 2,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Hunt the unique animal Bret asks for. Track it with the hunting prompts, approach downwind and take a clean shot — a wounded animal that escapes means tracking it again. Start Bret's strand early so the hunt is available well before the finale. The hunting method is our advice from the description, not yet verified in-game."
   },
   {
@@ -334,7 +399,9 @@
    "category": "collectible",
    "missable": false,
    "phase": 4,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Complete 3 collectible card sets. Cards hide across Leonida — in shops, hidden spots and mission rewards — so collect as you travel instead of hunting all at once, and trade duplicates if the game allows it. Three full sets is the target, not every card in the game. Card locations are not yet verified."
   },
   {
@@ -345,7 +412,10 @@
    "category": "collectible",
    "missable": false,
    "phase": 4,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 100 WAiNK locations"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 100 WAiNK locations"
+   ],
    "guide": "Use the WAiNK interaction at 100 locations — PSNProfiles lists the count. It is a volume grind: hit WAiNK points whenever you pass one instead of saving them for a dedicated run, and the counter ticks per location, so never revisit one twice. The exact interaction is our reading of the description, not yet verified in-game."
   },
   {
@@ -356,7 +426,9 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Finish 50 challenges. The challenge list spans driving, combat, exploration and activities, so the fastest path is breadth: clear the easy ones in every category before grinding the hard ones, and check the challenges menu often to see what is one attempt away. Source: the official list via Exophase."
   },
   {
@@ -368,8 +440,11 @@
    "missable": true,
    "missable_reason": "Needs your partner beside you — partners are not always available late in the story.",
    "phase": 2,
-   "sources": ["Official trophy list via Exophase", "Our roadmap, built from the official descriptions"],
-   "guide": "Lose a 4-star wanted level while your partner is with you, then escape. Build the wanted level away from the story (provoke police in open country), then break line of sight and stay hidden with your partner until the stars clear. Flagged missable: your partner is not always available late in the story, so do this while you still have regular partner missions."
+   "sources": [
+    "Official trophy list via Exophase",
+    "Official description — partner-availability warning is our inference, not yet verified in-game"
+   ],
+   "guide": "Lose a 4-star wanted level while your partner is with you, then escape. Build the wanted level away from the story (provoke police in open country), then break line of sight and stay hidden with your partner until the stars clear. Flagged missable: your partner is not always available late in the story, so do this while you still have regular partner missions. That partner-availability warning is our inference from the description — not yet verified in-game."
   },
   {
    "id": 34,
@@ -380,8 +455,11 @@
    "missable": true,
    "missable_reason": "Needs your partner beside you, and the streak breaks if the wanted level clears.",
    "phase": 2,
-   "sources": ["Official trophy list via Exophase", "Our roadmap, built from the official descriptions"],
-   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level — the streak breaks if the stars clear between robberies. Plan a route of three close shops, keep the car ready, and go straight from one to the next. Flagged missable for the same partner reason as Hot Together, so attempt it while partner missions are still regular."
+   "sources": [
+    "Official trophy list via Exophase",
+    "Official description — partner-availability warning is our inference, not yet verified in-game"
+   ],
+   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level — the streak breaks if the stars clear between robberies. Plan a route of three close shops, keep the car ready, and go straight from one to the next. Flagged missable for the same partner reason as Hot Together, so attempt it while partner missions are still regular. That partner-availability warning is our inference from the description — not yet verified in-game."
   },
   {
    "id": 35,
@@ -391,7 +469,9 @@
    "category": "collectible",
    "missable": false,
    "phase": 4,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Discover 100 vehicles — just drive or sit in 100 different models. Variety beats repetition: try every new model you see parked or in traffic, and the counter climbs during normal play. A model you have already driven does not count twice. Source: the official list via Exophase."
   },
   {
@@ -402,7 +482,9 @@
    "category": "crime",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Down 5 enemies in a single Combat Focus. Find a dense group — a gang shootout or a police response — trigger Focus when they cluster, and aim for headshots; the window is short, so enter it with a full magazine and a clear line. The setup is our advice from the description, not yet verified in-game."
   },
   {
@@ -413,7 +495,9 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Make an unscheduled departure from VCIA airport — take a plane or any aircraft off the runway without following the scheduled route. Expect an immediate wanted response; the trophy is about the departure itself, not surviving it. The aircraft choice is our reading of the description, not yet verified in-game."
   },
   {
@@ -424,7 +508,9 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "'Kinda hot in these Rhinos' — deal with Rhino tanks. Lure or find Rhinos at high wanted levels, then take them on with explosives or heavy weapons from cover; do not try to outrun one on foot. The description does not spell out the exact trigger (destroy, steal or survive), so check the in-game prompt when a Rhino appears."
   },
   {
@@ -436,7 +522,9 @@
    "missable": true,
    "missable_reason": "One clean undetected run — a detected attempt fails the condition, so save first.",
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Rob a jewelry store without being detected. Case the store, go in quiet, avoid cameras and guards' sightlines, and leave before any alarm. Save first: a detected attempt fails the condition, so reload and retry rather than fighting your way out. The stealth route is our advice from the description, not yet verified in-game."
   },
   {
@@ -447,7 +535,9 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Rob 5 bank vaults and escape each time. Vaults need planning — bring a fast getaway car, know the exit route before you go in, and escape cleanly; the trophy counts completed escapes, not attempts. Source: the official list via Exophase."
   },
   {
@@ -458,7 +548,9 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Rob an armored truck and escape. Ambush one on a quiet road, crack it fast, and break line of sight before the police response builds — the escape is the hard half of this trophy, not the robbery. The ambush setup is our advice from the description, not yet verified in-game."
   },
   {
@@ -469,10 +561,12 @@
    "category": "collectible",
    "missable": false,
    "phase": 4,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 52 areas of Leonida"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 52 areas of Leonida"
+   ],
    "guide": "Explore all 52 areas of Leonida — PSNProfiles lists the count. Drive every road on the map; the game marks areas as you enter them, so sweep the map region by region, and the last unvisited corner is usually a small island or a backroad. Pair this sweep with the meditation spots and WAiNK points in the same regions."
-  }
-,
+  },
   {
    "id": 43,
    "name": "Pest Control",
@@ -481,7 +575,10 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 9 gangs"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 9 gangs"
+   ],
    "guide": "Rob an illegal operation belonging to each of the 9 gangs — PSNProfiles lists 9. Scout each gang's turf, hit one operation per gang, and keep a note of which gangs are done; the trophy is breadth, not repetition, so one clean hit per gang is the whole job."
   },
   {
@@ -493,7 +590,9 @@
    "missable": true,
    "missable_reason": "Reads as a one-time story-adjacent moment on Ocean Beach — do it the first time the game brings you there.",
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Enjoy a cocktail with a view on Ocean Beach. Find the Ocean Beach bar spot, order the cocktail and take in the view — a quiet moment trophy, not a challenge. Flagged missable because it reads as a one-time story-adjacent moment; do it the first time the game brings you to Ocean Beach. The exact bar spot is not yet verified."
   },
   {
@@ -504,7 +603,9 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Smash your way out of a vehicle showroom in classic style — drive a car straight through the showroom glass and out the other side. Pick a showroom with a clear run-up and a fast car, and expect a wanted level on the way out. The setup is our advice from the description, not yet verified in-game."
   },
   {
@@ -515,7 +616,9 @@
    "category": "activity",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Follow through at the Kolt & Associates bowling alley — play a game of bowling there. Any completed game counts; aim for a steady roll rather than power, and the trophy pops at the end of the game. Source: the official list via Exophase."
   },
   {
@@ -527,7 +630,9 @@
    "missable": true,
    "missable_reason": "A story-adjacent partnership beat with no repeatable method in the description — keep saves around partner story beats.",
    "phase": 1,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "'A partnership with mass appeal' — a story-adjacent partnership moment. Play the story naturally and this should pop at its scripted beat; it is flagged missable only because the description gives no repeatable method, so keep saves around partner story beats. The exact trigger is not yet verified."
   },
   {
@@ -539,7 +644,10 @@
    "missable": true,
    "missable_reason": "A cumulative choices counter — some choices are one-time story beats.",
    "phase": 5,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 500 choices"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 500 choices"
+   ],
    "guide": "'Choices made (for better or worse)' — a cumulative choices counter; PSNProfiles lists the target as 500 choices. Make a decision whenever the game offers one, in missions and in the open world, and the counter climbs across the whole playthrough. Flagged missable because some choices are one-time story beats, so never skip a decision prompt."
   },
   {
@@ -551,7 +659,9 @@
    "missable": true,
    "missable_reason": "A second-attempt moment — keep a save before attempts you might fail.",
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "'Second time's the charm' — succeed on a second attempt after failing once. The natural reading: fail a retryable moment, then clear it on the next try. Keep a save before attempts you might fail, and do not reload past the failure. The exact trigger is not yet verified from the official description alone."
   },
   {
@@ -563,7 +673,9 @@
    "missable": true,
    "missable_reason": "Reads as a one-off strange event that may not repeat.",
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "'What the hell just happened?' — witness something strange. This reads as a rare or scripted odd event, the classic GTA strange-encounter nod. Explore odd map markers and late-night spots, and flag it missable because a one-off event may not repeat. The exact trigger is not yet verified."
   },
   {
@@ -574,7 +686,9 @@
    "category": "misc",
    "missable": false,
    "phase": 3,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Bowl 'em over with a melee drive-by — knock someone down with a melee attack from a moving vehicle. Drive slowly past a pedestrian and swing as you pass; a bike makes the angle easier. The method is our advice from the description, not yet verified in-game."
   },
   {
@@ -585,7 +699,9 @@
    "category": "crime",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from robberies and heists — launder them through contacts regularly instead of hoarding them, and the total climbs across the playthrough. The $250,000 target is in the official description."
   },
   {
@@ -596,7 +712,9 @@
    "category": "misc",
    "missable": false,
    "phase": 5,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Spend $100,000 across all shops. Buy weapons, clothes, cars and upgrades as you go — the total is cumulative across every shop, so normal spending across a full playthrough gets most of the way there, and a late car purchase closes the gap. The $100,000 target is in the official description."
   },
   {
@@ -607,7 +725,10 @@
    "category": "collectible",
    "missable": false,
    "phase": 4,
-   "sources": ["Official trophy list via Exophase", "PSNProfiles — 8 garage properties"],
+   "sources": [
+    "Official trophy list via Exophase",
+    "PSNProfiles — 8 garage properties"
+   ],
    "guide": "Purchase all 8 garage properties — PSNProfiles lists the count. Garages unlock as you earn money and explore; buy them when they appear rather than saving them for the end, since they also store the cars you need for other trophies. Garage locations are not yet verified."
   },
   {
@@ -618,7 +739,9 @@
    "category": "misc",
    "missable": false,
    "phase": 4,
-   "sources": ["Official trophy list via Exophase"],
+   "sources": [
+    "Official trophy list via Exophase"
+   ],
    "guide": "Register 10 vehicles to the Scooter Bros app. Drive a varied set of vehicles, open the app and register each one — the count is per vehicle, so use ten different models, and pair this with the 100-vehicle discovery trophy. The 10-vehicle target is in the official description."
   }
  ]
