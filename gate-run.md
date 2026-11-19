@@ -67,8 +67,9 @@ Wallet: `6do8zGw4FPLCB1Cq44G8r8KwQccbhHUqtAptaRji6ALk` (`.makefun/owner.json`).
 
 ## Push
 - First push (PAT contents API): 25 files; remote HEAD `01395959e459d2132d953619bc4bd8d1d020378d`. NOTE: the push script initially also pushed `out2/` (build output, 9 files) because its exclusion list missed `out2/` — all 9 deleted from the remote via contents DELETE (rc 0); local `out/` + `out2/` removed; push script fixed to exclude `out2/`.
-- Gate-run push (this file + updated trophies.json, 4-spoiler.jpg, main.ts): HEAD to fill after run: _______________
-- Fresh-clone check (remote tree == local, excluding out/): _______________
+- Gate-run push (this file + updated trophies.json, 4-spoiler.jpg, main.ts): HEAD `e99e0e32689bce6514a3d651a9e57f8e977790ad` ("Pre-submit gate run: all 8 questions + all 4 gates pass").
+- Fresh-clone check (remote tree == local, excluding out/): PASS — `git clone https://github.com/RieryBuild/makefun-gta6-trophy-guide-01` to /tmp/freshclone, `diff -r` vs local entry dir → identical, HEAD `e99e0e32689bce6514a3d651a9e57f8e977790ad`. 17 files, no out2/ remnants.
+- Final HEAD after the gate-run.md blank-fill push: see coordinator report (the file in the repo records HEAD `e99e0e3…`; the fill push only changes this section).
 
 ## Claim (one sentence, for the coordinator)
 Platinum Road is a complete, cited, spoiler-safe 55-trophy guide and tracker whose screenshots show the checklist with real progress, cited guides, the platinum roadmap, and the spoiler-safe missable view — built to the top-50 prizelist standard, not a promise of placement.
