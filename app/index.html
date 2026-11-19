@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en" data-theme="paper">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Platinum Road — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark" aria-hidden="true">VI</div>
+    <div>
+      <h1>Platinum Road</h1>
+      <p class="subtitle">Grand Theft Auto VI &middot; 55 PS5 trophies &middot; guide, roadmap &amp; tracker</p>
+    </div>
+  </div>
+  <div class="top-actions">
+    <button id="spoilerBtn" type="button" class="pill" aria-pressed="false" title="Hide story trophy names and descriptions until earned">Spoiler-safe: off</button>
+    <button id="themeBtn" type="button" class="pill" title="Switch paper / night theme">Night theme</button>
+  </div>
+</header>
+
+<section class="dashboard" aria-label="Progress">
+  <div class="progress-block">
+    <div class="ring" id="ring" style="--p:0"><span id="ringText">0%</span></div>
+    <div>
+      <p class="big" id="progressText">0 of 55 earned</p>
+      <p class="muted" id="progressSub">Your road to the platinum starts with the story.</p>
+    </div>
+  </div>
+  <div class="grade-counts" id="gradeCounts"></div>
+  <div class="missable-callout"><strong id="missableCount">9 missable</strong><span>Save before each flagged beat — one missed moment can cost a playthrough.</span></div>
+</section>
+
+<nav class="tabs" aria-label="Views">
+  <button type="button" class="tab active" data-view="checklist">Checklist</button>
+  <button type="button" class="tab" data-view="roadmap">Roadmap to Platinum</button>
+  <button type="button" class="tab" data-view="missables">Missables <span class="tab-badge">9</span></button>
+  <button type="button" class="tab" data-view="save">Save &amp; Sources</button>
+</nav>
+
+<main>
+  <section id="view-checklist" class="view active">
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search trophies, missions, guides…" aria-label="Search trophies">
+      <div class="chips" id="chips" role="group" aria-label="Filter by kind"></div>
+      <label class="grade-pick">Grade
+        <select id="gradeSel">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="check"><input id="hideEarned" type="checkbox"> Hide earned</label>
+    </div>
+    <p class="list-meta" id="listMeta"></p>
+    <div class="split">
+      <ul class="trophy-list" id="trophyList"></ul>
+      <aside class="detail" id="detail" aria-label="Trophy guide"></aside>
+    </div>
+  </section>
+
+  <section id="view-roadmap" class="view">
+    <p class="intro">Five phases, in order. Story first — the finale is a point of no return — then strangers, activities, collectibles, and the crime-spree cleanup last. Every step names the trophy it earns, and every missable beat is flagged with the save to keep.</p>
+    <ol class="phases" id="phases"></ol>
+  </section>
+
+  <section id="view-missables" class="view">
+    <p class="intro">Nine trophies are tied to a one-time story beat, a partner who may leave, or a single clean attempt. Keep a manual save before each one. Everything else can be cleaned up after the story.</p>
+    <div class="miss-grid" id="missGrid"></div>
+  </section>
+
+  <section id="view-save" class="view">
+    <div class="save-grid">
+      <div class="card">
+        <h2>Your progress</h2>
+        <p>Progress is saved in this browser (localStorage) the moment you tick a trophy. Take it with you:</p>
+        <div class="btn-row">
+          <button id="exportBtn" type="button" class="btn">Export progress (.json)</button>
+          <label class="btn ghost">Import progress <input id="importFile" type="file" accept="application/json" hidden></label>
+          <button id="resetBtn" type="button" class="btn danger">Reset all progress</button>
+        </div>
+        <p class="muted" id="saveState"></p>
+      </div>
+      <div class="card">
+        <h2>Sources &amp; honesty</h2>
+        <p>Names, descriptions and grades are the official 55-trophy list as published (via Exophase, list dated 2026-11-18). Target counts — 250 stunts, 42 Shooting Range challenges, 14 drone race locations, 18 meditation spots, 100 WAiNK locations, 52 areas, 9 gangs, 8 garages, 500 choices — are the counts PSNProfiles lists for those official descriptions.</p>
+        <p>Every guide is written in our own words for this entry and names its sources beside the trophy. Where a location or an exact trigger cannot be confirmed from the official description, the guide says so plainly (“not yet verified”) instead of inventing a step.</p>
+        <p class="muted">No Rockstar logo or official artwork is used anywhere in this guide; the look is our own. This app makes no network requests — it runs fully offline from its own files.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>Platinum Road — an unofficial fan-made guide. Grand Theft Auto and GTA are trademarks of Take-Two Interactive; this guide is not affiliated with or endorsed by Rockstar Games. Trophy names &amp; descriptions: official list via Exophase. Counts: PSNProfiles. Guides: our own words.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
